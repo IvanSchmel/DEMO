@@ -1,0 +1,15 @@
+H:\УП 02.01\Демо\DEMO\DEMO\bin\Debug\DEMO.exe.config
+H:\УП 02.01\Демо\DEMO\DEMO\bin\Debug\DEMO.exe
+H:\УП 02.01\Демо\DEMO\DEMO\bin\Debug\DEMO.pdb
+H:\УП 02.01\Демо\DEMO\DEMO\obj\Debug\DEMO.csproj.AssemblyReference.cache
+H:\УП 02.01\Демо\DEMO\DEMO\obj\Debug\DEMO.Form1.resources
+H:\УП 02.01\Демо\DEMO\DEMO\obj\Debug\DEMO.MainForm.resources
+H:\УП 02.01\Демо\DEMO\DEMO\obj\Debug\DEMO.Properties.Resources.resources
+H:\УП 02.01\Демо\DEMO\DEMO\obj\Debug\DEMO.ReqDet.resources
+H:\УП 02.01\Демо\DEMO\DEMO\obj\Debug\DEMO.Requests.resources
+H:\УП 02.01\Демо\DEMO\DEMO\obj\Debug\DEMO.Service.resources
+H:\УП 02.01\Демо\DEMO\DEMO\obj\Debug\DEMO.Serv_type.resources
+H:\УП 02.01\Демо\DEMO\DEMO\obj\Debug\DEMO.csproj.GenerateResource.cache
+H:\УП 02.01\Демо\DEMO\DEMO\obj\Debug\DEMO.csproj.CoreCompileInputs.cache
+H:\УП 02.01\Демо\DEMO\DEMO\obj\Debug\DEMO.exe
+H:\УП 02.01\Демо\DEMO\DEMO\obj\Debug\DEMO.pdb
